@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60027669306",
+    "project_id": "educational-app-6da69",
+    "storage_bucket": "educational-app-6da69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60027669306:android:c834856d36b3b820dbde03",
+        "android_client_info": {
+          "package_name": "com.eduapp.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSzIdFh31uNCh5Dz1I9Tih1ZBow893lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
